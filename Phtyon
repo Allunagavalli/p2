@@ -1,0 +1,6 @@
+p=int(input())
+t=int(input())
+r=int(input())
+Si=(p*t*r)/100
+Emi=(p+Si)/t*12
+Print('Emi',Emi)
